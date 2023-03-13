@@ -16,8 +16,8 @@
 
 <p align="center">
 Launch the utility: <br/>
-<img src="<img width="929" alt="Screenshot 2023-03-13 221846" src="https://user-images.githubusercontent.com/65899924/224770293-e2f09231-93b4-460e-b8c3-78e7a77ccd50.png">
-"/>
+<img width="929" alt="Screenshot 2023-03-13 221846" src="https://user-images.githubusercontent.com/65899924/224770293-e2f09231-93b4-460e-b8c3-78e7a77ccd50.png">
+
 <br />
 <br />
 Select the disk:  <br/>
