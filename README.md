@@ -14,10 +14,16 @@
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
+<p align="Left">
+Launch Jupyter Notebook & Import Necessary Libraries<br/><br/>
 <img width="929" alt="Screenshot 2023-03-13 221846" src="https://user-images.githubusercontent.com/65899924/224770293-e2f09231-93b4-460e-b8c3-78e7a77ccd50.png">
 
+ <p align="Left">
+ Before moving forward, let’s have a quick look at whether this dataset contains any null values or not: <br/><br/>
+ <img width="936" alt="Screenshot 2023-03-13 221931" src="https://user-images.githubusercontent.com/65899924/224792167-035445d5-83dd-4e6e-b042-af5f03eb10cc.png">
+
+  
+  
 <br />
 <br />
 Select the disk:  <br/>
